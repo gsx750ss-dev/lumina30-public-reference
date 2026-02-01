@@ -55,25 +55,28 @@ It is a fixed civilizational reference intended to remain readable and citable.
 
 ---
 
-## Suggested search keywords / 検索キーワード（EN/JA）
+## Suggested search keywords / 検索キーワード（EN / JA）
 
 **EN:**
 - LUMINA-30
 - Sanctuary Charter
 - civilizational preconditions
+- technological singularity
+- pre-singularity ethics
 - irreversible boundary
+- point of no return
 - recursive self-improvement
-- post-hoc control limitation
-- public record SHA-256
+- human final authority
 
 **JA:**
 - LUMINA-30
 - 聖域憲章
 - 文明的前提条件
+- 技術的シンギュラリティ
+- シンギュラリティ前倫理
 - 不可逆越境
-- 再帰的自己再構築
-- 事後制御の限界
-- 公開記録 ハッシュ SHA-256
+- 不可逆点
+- 人間の最終判断権
 
 ---
 
