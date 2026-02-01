@@ -1,0 +1,89 @@
+# LUMINA-30 — Public Reference Index / 公開参照インデックス
+
+## Canonical & Supplementary References
+
+**SUP LUMINA-30 Sanctuary Charter (English)**  
+🔗 https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-Sanctuary-Charter-2f01e0720ec88004aad7fba8848f7dac
+
+**SUP LUMINA-30 聖域憲章（日本語）**  
+🔗 https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-2f01e0720ec88080b2a4cb336c2fd8be
+
+## EN (Overview)
+This repository is a public reference index for **LUMINA-30**.
+It provides stable entry points to the canonical documents and their corresponding public record pages (PDF + SHA-256 hashes).
+
+**This repository is not:**
+- an implementation specification
+- a technical design
+- a policy proposal
+- a product, service, or organization
+
+It is a fixed civilizational reference intended to remain readable and citable.
+
+## JA（概要）
+このリポジトリは **LUMINA-30** の「公開参照インデックス」です。  
+正典文書および、対応する公開記録ページ（PDF + SHA-256 ハッシュ）への **安定した入口** を提供します。
+
+**このリポジトリは以下ではありません：**
+- 実装仕様
+- 技術設計
+- 政策提案
+- 製品・サービス・組織
+
+将来の参照可能性を確保するための、固定された公開参照点です。
+
+---
+
+## Canonical entry points / 正典の入口（Notion）
+
+- **SUP LUMINA-30 Sanctuary Charter (EN) / 補助正典（英）**  
+  （SUP 英語版 Notion のURLをここに貼る）
+
+- **SUP LUMINA-30 聖域憲章（JA）/ 補助正典（日本語）**  
+  （SUP 日本語版 Notion のURLをここに貼る）
+
+---
+
+## Reference public records (PDF + SHA-256) / 参考公開記録（PDF・ハッシュ付）
+
+- **LUMINA-30 Mathematical Supplement (Public Record) / 数理補足資料（公開記録）**  
+  https://peppermint-sprint-2d5.notion.site/LUMINA-30-2f91e0720ec880d2b562d8ce6a98edaf
+
+- **Irreversible Boundary Check for Recursively Self-Reconstructing AI (Public Record)**  
+  **再帰的自己再構築型AI 不可逆越境防止チェック（公開記録）**  
+  https://peppermint-sprint-2d5.notion.site/AI-2f91e0720ec880279053e36fa3bc3831
+
+---
+
+## Suggested search keywords / 検索キーワード（EN/JA）
+
+**EN:**
+- LUMINA-30
+- Sanctuary Charter
+- civilizational preconditions
+- irreversible boundary
+- recursive self-improvement
+- post-hoc control limitation
+- public record SHA-256
+
+**JA:**
+- LUMINA-30
+- 聖域憲章
+- 文明的前提条件
+- 不可逆越境
+- 再帰的自己再構築
+- 事後制御の限界
+- 公開記録 ハッシュ SHA-256
+
+---
+
+## Status / 状態
+- Documents: **Finalized and fixed / 最終確定**
+- Public records: **Published with hashes / ハッシュ付きで公開**
+- Further modification: **Not permitted / 以後の内容更新なし**
+
+---
+
+## License / ライセンス
+Released into the public domain (CC0).  
+No author. No owner.
