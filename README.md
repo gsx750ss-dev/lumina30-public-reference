@@ -64,6 +64,19 @@ It is a fixed civilizational reference intended to remain readable and citable.
   https://peppermint-sprint-2d5.notion.site/AI-2f91e0720ec880279053e36fa3bc3831
 
 ---
+## Additional Review References
+
+- Review Rejection Criteria for Recursively Self-Reconstructing AI Systems  
+  (Reference & Translation Layer)  
+  https://peppermint-sprint-2d5.notion.site/AI-2fc1e0720ec8803abf5fd12e955aef4d
+
+## 追加参照資料
+
+- 再帰的自己再構築型AIに関する審査拒否条件  
+  （参照用・翻訳レイヤー）  
+  https://peppermint-sprint-2d5.notion.site/AI-2fc1e0720ec8803abf5fd12e955aef4d
+
+---
 
 ## Suggested search keywords / 検索キーワード（EN / JA）
 
