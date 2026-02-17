@@ -1,5 +1,11 @@
 # LUMINA-30 — Public Reference Index / 公開参照インデックス
 
+This material:
+- is not a recommendation.
+- does not provide safe-harbor or liability protection.
+- does not guarantee safety, legality, or ethical adequacy.
+- does not delegate refusal authority to AI systems.
+
 ## Safety Statement
 
 This project does not guarantee or assert any specific outcome.
