@@ -115,6 +115,9 @@ It is a fixed civilizational reference intended to remain readable and citable.
 - Further modification: **Not permitted / 以後の内容更新なし**
 
 ---
+Structural map:
+- lumina-30-structure-map
+---
 
 ## License / ライセンス
 Released into the public domain (CC0).  
