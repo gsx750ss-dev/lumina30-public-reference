@@ -25,6 +25,23 @@ For detailed conceptual understanding, use the Overview. For operational review,
 
 # LUMINA-30 — Public Reference Index / 公開参照インデックス
 
+## Citation Role / 引用上の役割
+
+Use this repository when an external reader needs a compact, citable route into LUMINA-30 without reading the full repository network first.
+
+外部読者がrepo群全体を先に読まず、LUMINA-30へ短く引用・参照できる入口を必要とする場合に、このrepoを使用する。
+
+Citation route:
+
+1. Use this repository for a compact public entry.
+2. Use `Lumi30-Index` for the full repository network.
+3. Use `Lumi30-Public-Record` or `Lumi30-PDF-Archive` when fixed records, hashes, or PDF artifacts are required.
+4. Use `lumina30-incident-review` when the question concerns incident review or boundary checks.
+
+This repository does not replace the core text, incident-review tools, or fixed public records.
+
+Public Reference Index / 公開参照インデックス
+
 This material:
 - is not a recommendation.
 - does not provide safe-harbor or liability protection.
@@ -134,3 +151,4 @@ It should remain compact, stable, and link-oriented.
 
 Its role is not to restate the whole framework,
 but to ensure that external readers can reliably reach the correct layer.
+
