@@ -64,6 +64,17 @@ clarifying review conditions related to judgment, responsibility, and irreversib
 The absence of this material does not itself cause immediate or decisive consequences.
 It constitutes only a part of a broader risk-mitigation structure.
 
+
+## Boundary Reference Note / 境界参照注記
+
+This repository is a non-binding public reference and citation-routing layer.  
+It does not mandate action, propose policy, prescribe implementation, create certification status, create compliance obligations, grant approval, or provide institutional authorization.
+
+本リポジトリは、非拘束の公開参照・引用導線レイヤーである。  
+行動を命令せず、政策を提案せず、実装を規定せず、認証状態・適合義務・承認・制度的認可を作らない。
+
+---
+
 ## Canonical & Supplementary References
 
 [SUP LUMINA-30 Sanctuary Charter (English)](https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-Sanctuary-Charter-2f01e0720ec88004aad7fba8848f7dac)  
@@ -157,6 +168,3 @@ It should remain compact, stable, and link-oriented.
 
 Its role is not to restate the whole framework,
 but to ensure that external readers can reliably reach the correct layer.
-
-
-
