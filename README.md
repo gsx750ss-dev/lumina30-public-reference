@@ -1,6 +1,6 @@
 ## Position within LUMINA-30
 
-Primary users / 主な対象者: public readers, citation users, external reviewers, and people who need a compact entry point.  
+Primary users ｜ 主な対象者: public readers, citation users, external reviewers, and people who need a compact entry point.  
 一般公開読者、引用利用者、外部レビュー担当、簡潔な入口を必要とする読者向け。
 
 Use this repository when you need a compact public-facing route into LUMINA-30.  
@@ -9,15 +9,15 @@ LUMINA-30への公開向け簡易導線が必要な場合に使用。
 For detailed conceptual understanding, use the Overview. For operational review, use incident-review.  
 概念理解には Overview、実務レビューには incident-review を使用。
 
-- [LUMINA-30 Overview / LUMINA-30 概要](https://github.com/lumina-30/lumina-30-overview)  
+- [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)  
   Use this for visual and conceptual understanding.  
   視覚的・概念的理解に使用。
 
-- [Lumi30-Index / LUMINA-30 索引](https://github.com/lumina-30/Lumi30-Index)  
+- [Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)  
   Use this to navigate the full repository network.  
   repo群全体の導線確認に使用。
 
-- [Public Record / 公開記録](https://github.com/lumina-30/Lumi30-Public-Record)  
+- [Public Record ｜ 公開記録真正性](https://github.com/lumina-30/Lumi30-Public-Record)  
   Use this when fixed public record identity or hashes are needed.  
   固定公開記録の識別子やハッシュ確認に使用。
 
@@ -25,7 +25,7 @@ For detailed conceptual understanding, use the Overview. For operational review,
 
 # LUMINA-30 — Public Reference Index / 公開参照インデックス
 
-## Citation Role / 引用上の役割
+## Citation Role ｜ 引用上の役割
 
 Use this repository when an external reader needs a compact, citable route into LUMINA-30 without reading the full repository network first.
 
@@ -40,7 +40,7 @@ Citation route:
 
 This repository does not replace the core text, incident-review tools, or fixed public records.
 
-## 15-Second Definition // 15秒定義
+## 15-Second Definition ｜ 15秒定義
 
 EN:
 LUMINA-30 is a non-binding boundary-check framework asking whether human refusal authority remained effective before irreversible AI impact.
@@ -65,7 +65,7 @@ The absence of this material does not itself cause immediate or decisive consequ
 It constitutes only a part of a broader risk-mitigation structure.
 
 
-## Boundary Reference Note / 境界参照注記
+## Boundary Reference Note ｜ 境界参照注記
 
 This repository is a non-binding public reference and citation-routing layer.  
 It does not mandate action, propose policy, prescribe implementation, create certification status, create compliance obligations, grant approval, or provide institutional authorization.
@@ -111,7 +111,7 @@ It is a fixed civilizational reference intended to remain readable and citable.
 
 ---
 
-## Canonical entry points / 正典の入口（Notion）
+## Canonical entry points ｜ 正典の入口（Notion）
 
 - [SUP LUMINA-30 Sanctuary Charter (English)](https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-Sanctuary-Charter-2f01e0720ec88004aad7fba8848f7dac)  
   Canonical English public reference.  
@@ -123,39 +123,39 @@ It is a fixed civilizational reference intended to remain readable and citable.
 
 ---
 
-## Network routing / ネットワーク導線
+## Network routing ｜ ネットワーク導線
 
 Use this repository when readers need a compact external path into the LUMINA-30 network.
 
-- [Lumi30-Index / LUMINA-30 索引](https://github.com/lumina-30/Lumi30-Index)  
+- [Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)  
   Start here for the full repository network.  
   repo群全体を確認する入口。
 
-- [LUMINA-30 Overview / LUMINA-30 概要](https://github.com/lumina-30/lumina-30-overview)  
+- [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)  
   Start here for the conceptual overview and visual navigation.  
   概念概要と視覚導線を確認する入口。
 
-- [Incident Review Hub / 事故レビュー主ハブ](https://github.com/lumina-30/lumina30-incident-review)  
+- [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)  
   Use this for incident review and boundary checks.  
   事故レビューと境界判定に使用。
 
-- [Public Record / 公開記録真正性](https://github.com/lumina-30/Lumi30-Public-Record)  
+- [Public Record ｜ 公開記録真正性](https://github.com/lumina-30/Lumi30-Public-Record)  
   Use this for fixed record identity and hashes.  
   固定記録識別子とハッシュ確認に使用。
 
-- [PDF Archive / PDF固定配布](https://github.com/lumina-30/Lumi30-PDF-Archive)  
+- [PDF Archive ｜ PDF固定配布](https://github.com/lumina-30/Lumi30-PDF-Archive)  
   Use this for stable downloadable PDF files.  
   安定配布用PDFの確認に使用。
 
-- [AI Accountability Reference / 説明責任参照](https://github.com/lumina-30/ai-accountability-reference)  
+- [AI Accountability Reference ｜ 説明責任参照](https://github.com/lumina-30/ai-accountability-reference)  
   Use this for accountability and responsibility-continuity language.  
   説明責任と責任連続性の言語確認に使用。
 
-- [Institutional Friction Toolkit / 制度摩擦ツールキット](https://github.com/lumina-30/institutional-friction-toolkit)  
+- [Institutional Friction Toolkit ｜ 制度摩擦ツールキット](https://github.com/lumina-30/institutional-friction-toolkit)  
   Use this for failure-to-stop and procedural invalidity analysis.  
   停止不全と手続的無効の分析に使用。
 
-- [Stop Authority Reference / 拒否権定義アンカー](https://github.com/lumina-30/stop-authority-reference)  
+- [Stop Authority Reference ｜ 拒否権定義アンカー](https://github.com/lumina-30/stop-authority-reference)  
   Use this for compact definitions of stop/refusal authority.  
   stop/refusal authority の簡潔定義に使用。
 
@@ -168,13 +168,16 @@ LUMINA-30 distinguishes public availability from observed external visibility.
 Use the following documents to record whether GitHub, Zenodo, DOI / DataCite, arXiv proxy evidence, and external references are actually observable.
 
 - [External Visibility Tracking](./observability/External_Visibility_Tracking.md)  
-  Defines what evidence may be used to assess external visibility without overclaiming adoption.
+  Defines what evidence may be used to assess external visibility without overclaiming adoption.  
+  採用を過剰主張せず、外部可視性を確認するための証拠基準を定義する。
 
 - [Visibility Snapshot Template](./observability/LUMINA30_Visibility_Snapshot_Template.md)  
-  Template for periodic visibility snapshots across GitHub, Zenodo, DOI / DataCite, arXiv proxy evidence, and external search results.
+  Template for periodic visibility snapshots across GitHub, Zenodo, DOI / DataCite, arXiv proxy evidence, and external search results.  
+  GitHub、Zenodo、DOI / DataCite、arXiv代理証拠、外部検索結果の定期観測テンプレート。
 
 - [Visibility Collection Script](./tools/collect_lumina30_visibility.ps1)  
-  Local PowerShell helper for collecting GitHub traffic and DataCite DOI-event signals where available.
+  Local PowerShell helper for collecting GitHub traffic and DataCite DOI-event signals where available.  
+  GitHub traffic と DataCite DOI-event signals を取得するためのローカルPowerShell補助スクリプト。
 
 ---
 
