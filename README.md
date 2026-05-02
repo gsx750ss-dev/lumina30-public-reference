@@ -23,7 +23,7 @@ For detailed conceptual understanding, use the Overview. For operational review,
 
 ---
 
-# LUMINA-30 — Public Reference Index / 公開参照インデックス
+# LUMINA-30 — Public Reference Index ｜ 公開参照インデックス
 
 ## Citation Role ｜ 引用上の役割
 
